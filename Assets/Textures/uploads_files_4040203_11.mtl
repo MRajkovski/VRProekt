@@ -1,0 +1,13 @@
+# Blender 3.3.0 MTL File: '07-12 — копия.blend'
+# www.blender.org
+
+newmtl 07-08-09-10-11-12
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/3D/Models/31-Medieval House 07-12/Textures/07-08-09-10-11-12_diffuse.png
+map_Ns D:/3D/Models/31-Medieval House 07-12/Textures/07-08-09-10-11-12_roughness.png
+map_Bump -bm 1.000000 D:/3D/Models/31-Medieval House 07-12/Textures/07-08-09-10-11-12_normal.png
